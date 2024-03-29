@@ -37,7 +37,7 @@ const years = yearsFunction();
 // Function to store all possible points tallies
 const pointsFunction = () => {
 	let array = [];
-	for (i = 70; i < 114; i++) {
+	for (i = 70; i < 115; i++) {
 		array.push(i);
 	}
 	return array;
